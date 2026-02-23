@@ -644,9 +644,7 @@ Practice designing each of these from scratch before looking at solutions:
 
 | Blog | Best For |
 |------|---------|
-| [Netflix Tech Blog](https://netflixtechblog.com) | Microservices, chaos engineering, streaming at scale |
 | [Uber Engineering](https://eng.uber.com) | Database migrations, maps, real-time systems |
-| [Airbnb Engineering](https://medium.com/airbnb-engineering) | Monolith-to-microservices, data infrastructure |
 | [Discord Engineering](https://discord.com/blog/engineering) | WebSocket scaling, Cassandra, Rust |
 | [Stripe Engineering](https://stripe.com/blog/engineering) | Distributed payments, API design, reliability |
 | [High Scalability](http://highscalability.com) | Architecture case studies of real-world systems |
