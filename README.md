@@ -4,8 +4,10 @@
 
 # System Design: Zero to Production
 
-### A complete, structured, end-to-end roadmap to master System Design
-### from absolute beginner to international remote-job ready
+### A complete, structured roadmap to master System Design
+### Learn scalable architecture, distributed systems, and production-ready backend engineering
+
+From absolute beginner to building real-world scalable systems used in modern tech companies.
 
 <br/>
 
